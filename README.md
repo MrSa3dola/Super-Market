@@ -6,7 +6,7 @@ This project is a Supermarket Management System developed using C# and an SQL da
 
 ### Customer Functionalities
 
-- **Sign-up:** New customers can register by providing necessary details.
+- **Sign-up:** New customers can register by providing the necessary details.
 - **Login:** Registered customers can log in securely to access the system.
 - **Browse and Buy:** Customers can view available items in the store and purchase them.
 
@@ -40,11 +40,3 @@ This project is a Supermarket Management System developed using C# and an SQL da
 1. As a customer, sign up using valid credentials to access the store.
 2. Log in as a customer to browse items and make purchases.
 3. Log in as an admin to manage inventory and view transaction histories.
-
-## Contributing
-
-Contributions are welcome! If you'd like to enhance this project, please fork the repository and create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
